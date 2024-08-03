@@ -15,8 +15,6 @@ This project aims to predict the 10-year risk of coronary heart disease (CHD) us
 - IBM Cloud Object Storage
 - IBM Watson Studio
 - IBM Watson Machine Learning
-- IBM Cloud Kubernetes Service or IBM Cloud Functions
-- IBM Cognos Analytics
 
 
 ## Data Description
