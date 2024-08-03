@@ -1,7 +1,3 @@
-Certainly! Here’s a comprehensive README file for your GitHub repository:
-
----
-
 # Cardiovascular Risk Prediction
 
 ## Project Overview
@@ -94,6 +90,4 @@ The project successfully leverages machine learning to predict the 10-year risk 
 
 - [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio)
 - [IBM Watson Machine Learning](https://www.ibm.com/cloud/watson-machine-learning)
----
 
-This README file provides a comprehensive overview of the cardiovascular risk prediction project, including setup instructions, algorithm details, and usage guidelines.
