@@ -16,12 +16,6 @@ This project aims to predict the 10-year risk of coronary heart disease (CHD) us
 - IBM Watson Studio
 - IBM Watson Machine Learning
 
-## Dataset Required
-- link
-- (https://github.com/user-attachments/assets/a2437673-1ce8-4afe-864c-94f00c45aa3d)
-
-
-
 ## Data Description
 
 The dataset consists of over 4,000 records and 15 attributes, including:
